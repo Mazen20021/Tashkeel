@@ -51,16 +51,20 @@ Follow these steps to set up the application on your device:
 Distributed under the MIT License. See [LICENSE](https://github.com/Mazen20021/Tashkeel/blob/main/LICENSE.txt) for more information.
  
 ## Team 👥
-### Mazen Ahmed
+### Mazen Ahmed (Software Engineer)
+- [CV](https://mazen20021.github.io/CV/)
 - [GitHub](https://github.com/Mazen20021)
 - [LinkedIn](https://www.linkedin.com/in/mazen-mansour-b4726123a/)
-### Omar Alaa El Dien
+### Omar Alaa El Dien (Ai Engineer)
+- [CV]()
 - [GitHub](https://github.com/OmarAladi)
 - [LinkedIn](https://www.linkedin.com/in/omar-aladin/)
-### Ahmed El-dairy
+### Ahmed El-dairy (Ai Engineer)
+- [CV]()
 - [GitHub](https://github.com/AhmedFarag1)
 - [LinkedIn]()
-### Saleh
+### Saleh (Ai Engineer)
+- [CV]()
 - [GitHub](https://github.com/saleh1312)
 - [LinkedIn]()
 
