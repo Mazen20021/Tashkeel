@@ -56,7 +56,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Mazen20021/T
 - [GitHub](https://github.com/Mazen20021)
 - [LinkedIn](https://www.linkedin.com/in/mazen-mansour-b4726123a/)
 ### Omar Alaa El Dien (Ai Engineer)
-- [CV]()
+- [CV](https://omaraladi.github.io/omaraladin.github.io/ )
 - [GitHub](https://github.com/OmarAladi)
 - [LinkedIn](https://www.linkedin.com/in/omar-aladin/)
 ### Ahmed El-dairy (Ai Engineer)
