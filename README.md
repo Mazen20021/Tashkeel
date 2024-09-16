@@ -66,7 +66,74 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Mazen20021/T
 
 ## SnapShots 📷
 
+### ِApplication Icon 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7700a29d-b91e-4a95-b235-eef5374fac63" alt="Tashkeel" />
+  <img src="https://github.com/user-attachments/assets/f2e7925a-a283-499b-8ade-07068ea9388e" alt="Tashkeel" />
 </p>
 
+### Starting 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6b002d04-5cbb-4c6a-8e10-29c86fd9a664" alt="Tashkeel" />
+</p>
+
+### Tashkeel Text
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2117348a-0c35-4f5f-a87c-16c395f94749" alt="Tashkeel" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a24ec4eb-1e98-4281-8c4f-74adfcbec42c" alt="Tashkeel" />
+</p>
+
+### Tashkeel Voice Recognized
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f99ebc3c-4263-49bf-be18-64eac1986bd9" alt="Tashkeel" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/60f71dfc-c242-4211-8638-47767450c4b7" alt="Tashkeel" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/92d4c21c-8920-46f3-92cb-f154112eb901" alt="Tashkeel" />
+</p>
+
+### Tashkeel Image From Gallary
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/22eb9cff-cb30-4d3a-a37d-fc98bd82885c" alt="Tashkeel" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7686727a-5a60-4f65-ae6b-ee37c698b9a6" alt="Tashkeel" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/190c95a1-4dd7-40ea-b0d7-b18235277b4f" alt="Tashkeel" />
+</p>
+
+### Tashkeel Image From Camera
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d758de14-0681-4ef7-bd55-4da86bcd44a5" alt="Tashkeel" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2e962822-42b2-4071-acd2-01aef23600f2" alt="Tashkeel" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aac73456-880f-4445-80b8-e9e4f4a74b45" alt="Tashkeel" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/52ed0549-4187-4098-84b9-2ce681a472b8" alt="Tashkeel" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e49a6ee6-4bad-482d-9c9d-8c2ecb8e1b36" alt="Tashkeel" />
+</p>
