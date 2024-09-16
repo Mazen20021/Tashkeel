@@ -105,15 +105,15 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Mazen20021/T
 ### Tashkeel Image From Gallary
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/190c95a1-4dd7-40ea-b0d7-b18235277b4f" alt="Tashkeel" />
+</p>
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/22eb9cff-cb30-4d3a-a37d-fc98bd82885c" alt="Tashkeel" />
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7686727a-5a60-4f65-ae6b-ee37c698b9a6" alt="Tashkeel" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/190c95a1-4dd7-40ea-b0d7-b18235277b4f" alt="Tashkeel" />
 </p>
 
 ### Tashkeel Image From Camera
