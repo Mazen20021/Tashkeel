@@ -60,7 +60,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Mazen20021/T
 - [GitHub](https://github.com/OmarAladi)
 - [LinkedIn](https://www.linkedin.com/in/omar-aladin/)
 ### Ahmed El-dairy (Machine Learning Engineer)
-- [CV](https://drive.google.com/file/d/1BwmuoWVPDLFTQEKi__Xr-wD-TrM2M9EW/view?usp=drivesdk)
+- [CV](https://ahmedfarag1.github.io/CV/)
 - [GitHub](https://github.com/AhmedFarag1)
 - [LinkedIn](https://www.linkedin.com/in/ahmedmohamedeldairy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 ### Saleh (Machine Learning Engineer)
