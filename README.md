@@ -142,7 +142,5 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Mazen20021/T
 </p>
 
 ## Application Demo 📱
-<p align="center">
-  <src="https://drive.google.com/file/d/1GPgxxyzClz3hcjk0SQd4nbjDeCLtC3UI/view?usp=sharing" alt="Tashkeel" />
-</p>
+[App Demo](https://drive.google.com/file/d/1GPgxxyzClz3hcjk0SQd4nbjDeCLtC3UI/view?usp=sharing)
 
