@@ -70,8 +70,7 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Mazen20021/T
 
 ## SnapShots 📷
 
-### ِApplication Icon 
-
+### Application Icon 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f2e7925a-a283-499b-8ade-07068ea9388e" alt="Tashkeel" />
 </p>
@@ -141,5 +140,9 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Mazen20021/T
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e49a6ee6-4bad-482d-9c9d-8c2ecb8e1b36" alt="Tashkeel" />
 </p>
-## Application Demo 📷
-[App Demo](https://drive.google.com/file/d/1GPgxxyzClz3hcjk0SQd4nbjDeCLtC3UI/view?usp=sharing)
+
+## Application Demo 📱
+<p align="center">
+  <src="https://drive.google.com/file/d/1GPgxxyzClz3hcjk0SQd4nbjDeCLtC3UI/view?usp=sharing" alt="Tashkeel" />
+</p>
+
